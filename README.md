@@ -1,8 +1,7 @@
-﻿# PROG103_Assignment_1_Sharon_Koroma_905006201
- # Citizen Complaint System
+# Citizen Complaint System
 
 **Module:** PROG211 Object-Oriented Programming 1 - Limkokwing University of Creative Technology, Sierra Leone
-**Student:** [Your Full Name] | **Student ID:** [Your ID]
+**Student:** Sharon Mary Ramatha Koroma | **Student ID:** 905006201
 **Domain:** Government - Citizen Complaint System
 
 ## Problem
